@@ -1,0 +1,39 @@
+
+@media (min-width: 576px)
+{.form-inline .form-control {
+
+    display: inline-block;
+    width: 405px!important;
+    vertical-align: middle;
+}
+}
+.orange-bg{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+.carousel-indicators li{
+    background-color:white;
+}
+.carousel-indicators .active{
+    background-color:#ff136f ;
+}
+.home-area{
+    padding: 50px 0;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #FF136F;
+}
+button.buy-now-btn {
+    background-image: linear-gradient(to bottom, #ff589B 0%, #ff136f 100%);
+    border: none;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+button.buy-now-btn i {
+    padding-left: 10px;
+}
